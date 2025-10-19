@@ -32,7 +32,7 @@ public class SecondLargest {
 			System.out.println(" Second largest value in an array:" + result);
 		}
 		
-		// TODO Auto-generated method stub
+		
 
 	}
 

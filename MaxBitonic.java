@@ -19,11 +19,12 @@ public class MaxBitonic {
 		}
 		System.out.println(m);
 		
+		
 	}
 
 	public static void main(String[] args) {
 		int arr[]= {1,2,4,6,8,12,3,2,1};
-		maxBitonic(arr);// TODO Auto-generated method stub
+		maxBitonic(arr);
 
 	}
 
